@@ -1,4 +1,4 @@
-# forecast_KBO_IP
+# ⚾️forecast_KBO_IP⚾️
 
 선형회귀모델을 활용하는 과제입니다
 
