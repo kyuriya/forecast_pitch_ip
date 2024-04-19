@@ -18,3 +18,4 @@
 
 
 <img width="1294" alt="image" src="https://github.com/kyuriya/forecast_KBO_IP/assets/164462761/72594120-297e-43c7-bd08-22c987dbaa04">
+<img width="1294" alt="image" src="https://github.com/kyuriya/forecast_KBO_IP/assets/164462761/4330d09e-0cf3-48ef-8ba0-7548ab20e656">
