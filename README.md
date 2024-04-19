@@ -1,6 +1,8 @@
 # ⚾️forecast_KBO_IP⚾️
 
 선형회귀모델을 활용하는 과제입니다
+### TOPIC
+KBO 투수들의 다음년도 시즌의 투구 이닝수를 예측하자!
 
 <img width="1294" alt="image" src="https://github.com/kyuriya/forecast_KBO_IP/assets/164462761/e1756ab3-1947-4818-b94b-291b2784413a">
 
